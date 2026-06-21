@@ -90,7 +90,7 @@ export const products: Product[] = [
     category: "Cocción",
     rating: 4.5,
     reviewCount: 7600,
-    image: "/products/olla-coccion-lenta-wifi.jpg",
+    image: "https://m.media-amazon.com/images/I/71MohAUfhDL._AC_UY327_FMwebp_QL65_.jpg",
     affiliateLink: "https://amzn.to/4ghbs8r",
   },
   {
@@ -103,7 +103,7 @@ export const products: Product[] = [
     category: "Cocción",
     rating: 4.5,
     reviewCount: 18300,
-    image: "/products/tapa-freidora-aire-instant-pot.jpg",
+    image: "https://m.media-amazon.com/images/I/71aGHWjbh-L._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/4eA9KMS",
   },
   {
@@ -116,7 +116,7 @@ export const products: Product[] = [
     category: "Cocción",
     rating: 4.5,
     reviewCount: 9800,
-    image: "/products/plancha-electrica-griddle.jpg",
+    image: "https://m.media-amazon.com/images/I/71OSI8cIUlL._AC_SX416_CB1169409_QL70_.jpg",
     affiliateLink: "https://amzn.to/4vzemtC",
   },
   {
@@ -129,7 +129,7 @@ export const products: Product[] = [
     category: "Cocción",
     rating: 4.7,
     reviewCount: 45000,
-    image: "/products/waflera-mini-dash.jpg",
+    image: "https://m.media-amazon.com/images/I/71JSdzp1Q4L._AC_UY327_FMwebp_QL65_.jpg",
     affiliateLink: "https://amzn.to/3Spg5Di",
   },
   {
@@ -142,7 +142,7 @@ export const products: Product[] = [
     category: "Preparación",
     rating: 4.5,
     reviewCount: 95000,
-    image: "/products/picadora-fullstar.jpg",
+    image: "https://m.media-amazon.com/images/I/71OD5rlIgiL._AC_SX416_CB1169409_QL70_.jpg",
     affiliateLink: "https://amzn.to/4oIC2th",
     badge: "Más vendido",
   },
