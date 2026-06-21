@@ -5,9 +5,9 @@ import Footer from "@/components/Footer";
 import RegisterSW from "@/components/RegisterSW";
 
 export const metadata: Metadata = {
-  title: "innovationTECH — Gadgets de cocina inteligente, probados y curados",
+  title: "innovationTECH — Los productos de cocina y hogar más vendidos, probados y curados",
   description:
-    "Seleccionamos los mejores gadgets de cocina inteligente disponibles en Amazon. Reseñas honestas, sin relleno, para que decidas en minutos.",
+    "Seleccionamos 50 de los productos de cocina y hogar mejor valorados de Amazon, organizados por categoría. Reseñas honestas, sin relleno, para que decidas en minutos.",
   manifest: "/manifest.json",
   appleWebApp: {
     capable: true,

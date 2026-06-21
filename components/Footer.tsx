@@ -10,7 +10,7 @@ export default function Footer() {
               innovation<span className="text-terracotta">TECH</span>
             </p>
             <p className="mt-3 max-w-xs text-sm leading-relaxed text-charcoal-soft">
-              Probamos y comparamos gadgets de cocina para que tu próxima compra
+              Probamos y comparamos productos de cocina y hogar para que tu próxima compra
               sea la correcta a la primera.
             </p>
           </div>
