@@ -1,5 +1,5 @@
 import { products } from "@/lib/products";
-import ProductCard from "@/components/ProductCard";
+import ProductCatalog from "@/components/ProductCatalog";
 
 export default function Home() {
   return (
@@ -23,13 +23,13 @@ export default function Home() {
           </p>
 
           <h1 className="max-w-2xl text-balance font-display text-4xl font-semibold leading-[1.1] tracking-tight text-charcoal sm:text-6xl">
-            10 gadgets de cocina que de verdad valen el espacio en tu mesón
+            {products.length} productos de cocina que de verdad valen el espacio en tu casa
           </h1>
 
           <p className="mt-6 max-w-xl text-balance text-lg leading-relaxed text-charcoal-soft">
             Comparamos especificaciones, leímos miles de reseñas y descartamos
-            lo que no sirve. Esto es lo que queda: diez productos que
-            realmente cambian cómo cocinas.
+            lo que no sirve. Esto es lo que queda: una selección amplia,
+            organizada por categoría, de lo que más se vende en Amazon.
           </p>
 
           <div className="mt-9 flex flex-wrap items-center gap-4">
@@ -37,7 +37,7 @@ export default function Home() {
               href="#catalogo"
               className="rounded-full bg-charcoal px-7 py-3.5 text-sm font-semibold text-cream transition-colors hover:bg-terracotta"
             >
-              Ver los 10 productos
+              Ver el catálogo completo
             </a>
             <span className="text-sm text-charcoal-soft">
               Sin registros · Sin spam · Directo a Amazon
@@ -48,23 +48,18 @@ export default function Home() {
 
       {/* ============ CATÁLOGO ============ */}
       <section id="catalogo" className="mx-auto max-w-6xl px-5 py-16 sm:px-8 sm:py-24">
-        <div className="mb-12 flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+        <div className="mb-8 flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
           <div>
             <h2 className="font-display text-3xl font-semibold text-charcoal sm:text-4xl">
-              El top 10 de este mes
+              Catálogo de cocina y hogar
             </h2>
             <p className="mt-2 max-w-md text-charcoal-soft">
-              Ordenados sin un ranking rígido — cada uno resuelve un problema
-              distinto en la cocina.
+              Filtra por categoría o busca directamente lo que necesitas.
             </p>
           </div>
         </div>
 
-        <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {products.map((product, index) => (
-            <ProductCard key={product.id} product={product} index={index} />
-          ))}
-        </div>
+        <ProductCatalog />
       </section>
 
       {/* ============ CONFIANZA / CÓMO ELEGIMOS ============ */}

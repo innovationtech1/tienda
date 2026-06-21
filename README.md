@@ -1,10 +1,14 @@
 # innovationTECH
 
-PWA de marketing de afiliados de Amazon — nicho: **gadgets de cocina inteligente**.
+PWA de marketing de afiliados de Amazon — nicho: **cocina y hogar**.
 
-El sitio muestra un catálogo curado de 10 productos. Cada tarjeta enlaza
-directamente a Amazon con tu link de afiliado. No hay carrito, no hay
-pagos propios, no hay inventario — el modelo de negocio es 100% afiliados.
+El sitio muestra un catálogo curado de **50 productos** de cocina,
+organizados en 11 categorías (Cocción, Preparación, Medición,
+Conservación, Bebidas, Organización, Limpieza, Parrilla, Horneado,
+Electrodomésticos, Cultivo en casa), con buscador y filtros por
+categoría. Cada tarjeta enlaza directamente a Amazon con tu link de
+afiliado. No hay carrito, no hay pagos propios, no hay inventario —
+el modelo de negocio es 100% afiliados.
 
 ---
 
@@ -47,17 +51,32 @@ Associates** aprobada:
    https://www.amazon.com/dp/B0XXXXXXXX?tag=tuID-20
    ```
 
-### 2. Tus 10 productos reales
+### 2. Tus 50 productos reales
 
-El catálogo ya viene actualizado con productos reales e investigados
-(marcas como Ninja, Cuisinart, AeroGarden, etc. — populares en
-gadgets de cocina inteligente en Amazon). Aun así, antes de lanzar:
+El catálogo viene actualizado con 50 productos reales e investigados
+(bestsellers de Amazon en Cocina y Dining, según Amazon Best Sellers,
+Food Network, HGTV y NBC Select), organizados en 11 categorías. Aun así,
+antes de lanzar:
 
 - Confirma en Amazon el modelo exacto y precio actual de cada producto
   (los precios cambian constantemente).
 - Verifica que cada producto siga disponible y bien valorado.
 - Ajusta nombres/descripciones en `lib/products.ts` si cambias de
   modelo o marca.
+
+**Nota técnica:** `lib/products.ts` ahora se genera con el script
+`scripts/build_products_catalog.py` (requiere `pip install` nada
+adicional, solo Python 3). Si prefieres agregar/quitar productos
+editando directamente el archivo `.ts`, también puedes — el script es
+solo una herramienta de conveniencia para regenerar todo el catálogo
+de una vez. Si decides usar el script:
+```bash
+python3 scripts/build_products_catalog.py
+python3 scripts/generate_product_placeholders.py
+```
+El primero regenera `lib/products.ts`, el segundo regenera las
+imágenes placeholder en `/public/products/` a partir de la misma
+lista de productos (mantiene todo sincronizado automáticamente).
 
 ### 3. Imágenes de producto
 
@@ -150,16 +169,20 @@ app/
 components/
   Header.tsx               → Navegación superior
   Footer.tsx                → Pie de página con disclosure legal
-  ProductCard.tsx           → Tarjeta individual de producto
-  RegisterSW.tsx             → Registra el service worker (PWA)
+  ProductCatalog.tsx         → ⭐ Buscador + filtros de categoría + grid
+  ProductCard.tsx             → Tarjeta individual de producto
+  RegisterSW.tsx               → Registra el service worker (PWA)
 lib/
-  products.ts                → ⭐ EDITA AQUÍ tus 10 productos y links
+  products.ts                  → ⭐ EDITA AQUÍ tus 50 productos y links
 public/
-  manifest.json               → Configuración de instalación PWA
-  sw.js                        → Service worker (funcionalidad offline)
-  icons/                        → Íconos de la app
+  manifest.json                 → Configuración de instalación PWA
+  sw.js                          → Service worker (funcionalidad offline)
+  icons/                          → Íconos de la app
+  products/                        → Imágenes de cada producto (50 .jpg)
 scripts/
-  generate_icons.py              → Script que generó los íconos (opcional)
+  build_products_catalog.py          → Genera lib/products.ts (opcional)
+  generate_product_placeholders.py    → Genera imágenes placeholder
+  generate_icons.py                    → Generó los íconos de la app
 ```
 
 ---
