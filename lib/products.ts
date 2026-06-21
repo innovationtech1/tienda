@@ -63,7 +63,7 @@ export const products: Product[] = [
     rating: 4.7,
     reviewCount: 42000,
     image: "/products/freidora-aire-ninja.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Ninja+Freidora+de+Aire+Digital&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4viG65H",
     badge: "Más vendido",
   },
   {
@@ -77,7 +77,7 @@ export const products: Product[] = [
     rating: 4.7,
     reviewCount: 89000,
     image: "/products/termometro-instantaneo-alpha-grillers.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Alpha+Grillers+Termómetro+Digital+Instantáneo&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/43OKqh3",
     badge: "Más vendido",
   },
   {
@@ -91,7 +91,7 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 7600,
     image: "/products/olla-coccion-lenta-wifi.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Olla+de+Cocción+Lenta+Inteligente+WiFi&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4ghbs8r",
   },
   {
     id: "tapa-freidora-aire-instant-pot",
@@ -104,7 +104,7 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 18300,
     image: "/products/tapa-freidora-aire-instant-pot.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Instant+Pot+Tapa+de+Freidora+de+Aire&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4eA9KMS",
   },
   {
     id: "plancha-electrica-griddle",
@@ -117,7 +117,7 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 9800,
     image: "/products/plancha-electrica-griddle.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Plancha+Eléctrica+para+Cocina+(Griddle)&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4vzemtC",
   },
   {
     id: "waflera-mini-dash",
@@ -130,7 +130,7 @@ export const products: Product[] = [
     rating: 4.7,
     reviewCount: 45000,
     image: "/products/waflera-mini-dash.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Dash+Mini+Waflera&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/3Spg5Di",
   },
   {
     id: "picadora-fullstar",
@@ -143,7 +143,7 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 95000,
     image: "/products/picadora-fullstar.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Fullstar+Picador+de+Vegetales+4+en+1&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4oIC2th",
     badge: "Más vendido",
   },
   {
@@ -157,7 +157,7 @@ export const products: Product[] = [
     rating: 4.3,
     reviewCount: 8700,
     image: "/products/pelador-electrico-rotato.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Pelador+Eléctrico+de+Papas+y+Vegetales&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4uKvVWv",
   },
   {
     id: "tijeras-cocina-kitchenaid",
@@ -170,7 +170,7 @@ export const products: Product[] = [
     rating: 4.7,
     reviewCount: 31000,
     image: "/products/tijeras-cocina-kitchenaid.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=KitchenAid+Tijeras+de+Cocina+Multiusos&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4vZ58qt",
   },
   {
     id: "colador-escurridor-snap",
@@ -183,7 +183,7 @@ export const products: Product[] = [
     rating: 4.4,
     reviewCount: 41100,
     image: "/products/colador-escurridor-snap.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Colador+Snap-On+para+Ollas&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4w7s9Yx",
   },
   {
     id: "robot-cocina-multifuncion",
@@ -196,7 +196,7 @@ export const products: Product[] = [
     rating: 4.4,
     reviewCount: 5320,
     image: "/products/robot-cocina-multifuncion.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Robot+de+Cocina+Multifunción&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4eBQfmS",
   },
   {
     id: "rallador-queso-multiusos",
@@ -209,7 +209,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 22500,
     image: "/products/rallador-queso-multiusos.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Rallador+de+Queso+y+Vegetales+Multiusos&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4eBQfTU",
   },
   {
     id: "bascula-digital-etekcity",
@@ -222,7 +222,7 @@ export const products: Product[] = [
     rating: 4.7,
     reviewCount: 78000,
     image: "/products/bascula-digital-etekcity.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Etekcity+Báscula+Digital+de+Cocina&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4oGHjRN",
     badge: "Más vendido",
   },
   {
@@ -236,7 +236,7 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 33000,
     image: "/products/bascula-amazon-basics.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Amazon+Basics+Báscula+Digital+de+Cocina&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4w5yGTB",
   },
   {
     id: "set-medidoras-magneticas",
@@ -249,7 +249,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 19400,
     image: "/products/set-medidoras-magneticas.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Set+de+Cucharas+Medidoras+Magnéticas+Apilables&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4elpJzo",
   },
   {
     id: "tabla-cortar-bascula",
@@ -262,7 +262,7 @@ export const products: Product[] = [
     rating: 4.4,
     reviewCount: 2876,
     image: "/products/tabla-cortar-bascula.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Tabla+de+Cortar+con+Báscula+Integrada&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/3QQkQp0",
   },
   {
     id: "termometro-carne-bluetooth",
@@ -275,7 +275,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 15800,
     image: "/products/termometro-carne-bluetooth.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Termómetro+de+Carne+con+Bluetooth&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/44o4lna",
   },
   {
     id: "selladora-vacio-cuisinart",
@@ -288,7 +288,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 9400,
     image: "/products/selladora-vacio-cuisinart.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Cuisinart+Selladora+al+Vacío+One-Touch&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4v8bP97",
   },
   {
     id: "bolsas-vacio-rollos",
@@ -301,7 +301,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 24500,
     image: "/products/bolsas-vacio-rollos.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Rollos+de+Bolsas+para+Selladora+al+Vacío&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/44iFYr4",
   },
   {
     id: "organizador-tapas-storalid",
@@ -314,7 +314,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 27000,
     image: "/products/organizador-tapas-storalid.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=YouCopia+Organizador+de+Tapas+para+Contenedores&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/43RX4Mj",
   },
   {
     id: "contenedores-vidrio-hermeticos",
@@ -327,7 +327,7 @@ export const products: Product[] = [
     rating: 4.7,
     reviewCount: 38900,
     image: "/products/contenedores-vidrio-hermeticos.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Set+de+Contenedores+de+Vidrio+Herméticos&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4a9eS9h",
   },
   {
     id: "organizador-especias-giratorio",
@@ -340,7 +340,7 @@ export const products: Product[] = [
     rating: 4.7,
     reviewCount: 15230,
     image: "/products/organizador-especias-giratorio.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Organizador+de+Especias+Giratorio+con+Etiquetas&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4eT4C7I",
   },
   {
     id: "cafetera-programable-molino",
@@ -353,7 +353,7 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 6543,
     image: "/products/cafetera-programable-molino.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Cafetera+Programable+con+Molino+Integrado&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4fTEw5y",
   },
   {
     id: "licuadora-personal-ninja",
@@ -366,7 +366,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 27600,
     image: "/products/licuadora-personal-ninja.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Ninja+Licuadora+Personal+Compacta&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/3QtTfde",
   },
   {
     id: "espumador-leche-electrico",
@@ -379,7 +379,7 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 41000,
     image: "/products/espumador-leche-electrico.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Espumador+de+Leche+Eléctrico+Portátil&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4vmI3xY",
   },
   {
     id: "exprimidor-electrico-citricos",
@@ -392,7 +392,7 @@ export const products: Product[] = [
     rating: 4.4,
     reviewCount: 6100,
     image: "/products/exprimidor-electrico-citricos.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Exprimidor+Eléctrico+de+Cítricos&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4eD4Iz8",
   },
   {
     id: "hervidor-electrico-temperatura",
@@ -405,7 +405,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 12700,
     image: "/products/hervidor-electrico-temperatura.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Hervidor+Eléctrico+con+Control+de+Temperatura&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4uUrJnf",
   },
   {
     id: "organizador-ollas-cabinet",
@@ -418,7 +418,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 14200,
     image: "/products/organizador-ollas-cabinet.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Organizador+de+Ollas+y+Sartenes+Ajustable&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/3SDaNUK",
   },
   {
     id: "organizador-tapas-ollas",
@@ -431,7 +431,7 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 9300,
     image: "/products/organizador-tapas-ollas.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Organizador+de+Tapas+de+Ollas+para+Gabinete&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4vmqtKt",
   },
   {
     id: "toallero-bajo-gabinete",
@@ -444,7 +444,7 @@ export const products: Product[] = [
     rating: 4.4,
     reviewCount: 32500,
     image: "/products/toallero-bajo-gabinete.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Toallero+de+Cocina+para+Bajo+Gabinete&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4aNMhqf",
   },
   {
     id: "organizador-bolsas-vacio-cocina",
@@ -457,7 +457,7 @@ export const products: Product[] = [
     rating: 4.4,
     reviewCount: 12400,
     image: "/products/organizador-bolsas-vacio-cocina.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Organizador+de+Bolsas+de+Plástico+para+Cocina&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4vjk4Qp",
   },
   {
     id: "carrito-cocina-rodante",
@@ -470,7 +470,7 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 8100,
     image: "/products/carrito-cocina-rodante.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Carrito+de+Cocina+Rodante+con+Estantes&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4vh5lW6",
   },
   {
     id: "ganchos-utensilios-pared",
@@ -483,7 +483,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 17800,
     image: "/products/ganchos-utensilios-pared.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Riel+con+Ganchos+para+Utensilios+de+Cocina&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4eTHbv4",
   },
   {
     id: "panos-cocina-algodon",
@@ -496,7 +496,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 28900,
     image: "/products/panos-cocina-algodon.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Set+de+Paños+de+Cocina+de+Algodón+Waffle&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4uRCHdk",
   },
   {
     id: "cepillo-limpieza-utensilios",
@@ -509,7 +509,7 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 16700,
     image: "/products/cepillo-limpieza-utensilios.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Cepillo+de+Limpieza+para+Utensilios+y+Botellas&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4xFLfGv",
   },
   {
     id: "dispensador-jabon-platos",
@@ -522,7 +522,7 @@ export const products: Product[] = [
     rating: 4.4,
     reviewCount: 9800,
     image: "/products/dispensador-jabon-platos.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Dispensador+de+Jabón+para+Lavaplatos+con+Soporte+de+Esponja&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4oCRA1k",
   },
   {
     id: "tapete-secado-platos",
@@ -535,7 +535,7 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 21300,
     image: "/products/tapete-secado-platos.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Tapete+de+Secado+para+Platos+de+Silicona&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/44k9EnF",
   },
   {
     id: "termometro-parrilla-inalambrico",
@@ -548,7 +548,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 9200,
     image: "/products/termometro-parrilla-inalambrico.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Termómetro+Inalámbrico+para+Parrilla+y+Ahumador&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/3QinuUp",
   },
   {
     id: "cesta-parrilla-rodante",
@@ -561,7 +561,7 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 8400,
     image: "/products/cesta-parrilla-rodante.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Cesta+Giratoria+para+Parrilla&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4fYC1Po",
   },
   {
     id: "tapetes-silicona-horneado",
@@ -574,7 +574,7 @@ export const products: Product[] = [
     rating: 4.7,
     reviewCount: 32100,
     image: "/products/tapetes-silicona-horneado.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Set+de+Tapetes+de+Silicona+para+Horneado&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4eBRcLY",
   },
   {
     id: "papel-pergamino-horno",
@@ -587,7 +587,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 19500,
     image: "/products/papel-pergamino-horno.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Papel+Pergamino+para+Horno+sin+Blanquear&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4ag5e4F",
   },
   {
     id: "manga-pastelera-reutilizable",
@@ -600,7 +600,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 11200,
     image: "/products/manga-pastelera-reutilizable.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Set+de+Manga+Pastelera+y+Boquillas+Reutilizables&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/43RXEJZ",
   },
   {
     id: "bascula-postres-precision",
@@ -613,7 +613,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 8700,
     image: "/products/bascula-postres-precision.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Báscula+de+Precisión+para+Repostería&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4uQEIX7",
   },
   {
     id: "tostadora-2-rebanadas",
@@ -626,7 +626,7 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 14800,
     image: "/products/tostadora-2-rebanadas.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Tostadora+Compacta+de+2+Rebanadas&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4ez4KYR",
   },
   {
     id: "batidora-mano-electrica",
@@ -639,7 +639,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 23400,
     image: "/products/batidora-mano-electrica.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Batidora+de+Mano+Eléctrica+Multivelocidad&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4vzfs8I",
   },
   {
     id: "microondas-compacto-digital",
@@ -652,7 +652,7 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 9100,
     image: "/products/microondas-compacto-digital.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Microondas+Compacto+Digital&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4enspwn",
   },
   {
     id: "freidora-aire-doble-cesta",
@@ -665,7 +665,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 16700,
     image: "/products/freidora-aire-doble-cesta.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Freidora+de+Aire+de+Doble+Cesta&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4wmEkAX",
     badge: "Tendencia 2026",
   },
   {
@@ -679,7 +679,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 12300,
     image: "/products/olla-arrocera-multifuncion.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Olla+Arrocera+Multifunción&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4aIMJWI",
   },
   {
     id: "minicultivo-hidroponico-aerogarden",
@@ -692,7 +692,7 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 11200,
     image: "/products/minicultivo-hidroponico-aerogarden.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=AeroGarden+Mini+Jardín+Hidropónico+de+Interior&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4w7tmz3",
     badge: "Tendencia 2026",
   },
   {
@@ -706,7 +706,7 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 6700,
     image: "/products/frasco-conservacion-hierbas.jpg",
-    affiliateLink: "https://www.amazon.com/s?k=Frasco+Conservador+de+Hierbas+Frescas&tag=mystore0655e-20",
+    affiliateLink: "https://amzn.to/4vnB0VQ",
   },
 ];
 
