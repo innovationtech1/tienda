@@ -1,12 +1,12 @@
 {
-  "name": "innovationTECH — Productos de cocina y hogar",
-  "short_name": "innovationTECH",
+  "name": "InnovationTECH — Productos de cocina y hogar",
+  "short_name": "InnovationTECH",
   "description": "Selección curada de los productos de cocina y hogar más vendidos en Amazon.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "background_color": "#FAF6EF",
-  "theme_color": "#C4622D",
+  "background_color": "#0e1b33",
+  "theme_color": "#0e1b33",
   "orientation": "portrait-primary",
   "icons": [
     {
@@ -22,13 +22,13 @@
       "purpose": "any"
     },
     {
-      "src": "/icons/icon-192.png",
+      "src": "/icons/icon-192-maskable.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "/icons/icon-512.png",
+      "src": "/icons/icon-512-maskable.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
