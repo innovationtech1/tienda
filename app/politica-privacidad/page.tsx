@@ -60,8 +60,14 @@ export default function PoliticaPrivacidad() {
             Contacto
           </h2>
           <p className="mt-2">
-            Si tienes preguntas sobre esta política, puedes contactarnos a
-            través de los medios indicados en el sitio.
+            Si tienes preguntas sobre esta política, puedes escribirnos a{" "}
+            <a
+              href="mailto:hectordehoyos053@gmail.com"
+              className="font-medium text-terracotta hover:underline"
+            >
+              hectordehoyos053@gmail.com
+            </a>
+            .
           </p>
         </div>
       </div>

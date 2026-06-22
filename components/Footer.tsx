@@ -13,6 +13,15 @@ export default function Footer() {
               Probamos y comparamos productos de cocina y hogar para que tu próxima compra
               sea la correcta a la primera.
             </p>
+            <p className="mt-4 text-sm text-charcoal-soft">
+              Contacto:{" "}
+              <a
+                href="mailto:hectordehoyos053@gmail.com"
+                className="font-medium text-terracotta hover:underline"
+              >
+                hectordehoyos053@gmail.com
+              </a>
+            </p>
           </div>
 
           <div>
