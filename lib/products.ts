@@ -417,7 +417,7 @@ export const products: Product[] = [
     category: "Organización",
     rating: 4.6,
     reviewCount: 14200,
-    image: "/products/organizador-ollas-cabinet.jpg",
+    image: "https://m.media-amazon.com/images/I/81-fLnGZQZL._AC_SX679_PIbundle-2,TopRight,0,0_SH20_.jpg",
     affiliateLink: "https://amzn.to/3SDaNUK",
   },
   {
@@ -430,7 +430,7 @@ export const products: Product[] = [
     category: "Organización",
     rating: 4.5,
     reviewCount: 9300,
-    image: "/products/organizador-tapas-ollas.jpg",
+    image: "https://m.media-amazon.com/images/I/719GMy3Dy8L._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/4vmqtKt",
   },
   {
@@ -443,7 +443,7 @@ export const products: Product[] = [
     category: "Organización",
     rating: 4.4,
     reviewCount: 32500,
-    image: "/products/toallero-bajo-gabinete.jpg",
+    image: "https://m.media-amazon.com/images/I/71D1ci6qPML._AC_SL1500_.jpg",
     affiliateLink: "https://amzn.to/4aNMhqf",
   },
   {
@@ -456,7 +456,7 @@ export const products: Product[] = [
     category: "Organización",
     rating: 4.4,
     reviewCount: 12400,
-    image: "/products/organizador-bolsas-vacio-cocina.jpg",
+    image: "https://m.media-amazon.com/images/I/71BfYhT-EdL._AC_UL480_FMwebp_QL65_.jpg",
     affiliateLink: "https://amzn.to/4vjk4Qp",
   },
   {
@@ -469,7 +469,7 @@ export const products: Product[] = [
     category: "Organización",
     rating: 4.5,
     reviewCount: 8100,
-    image: "/products/carrito-cocina-rodante.jpg",
+    image: "https://m.media-amazon.com/images/I/713m+9LXYGL._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/4vh5lW6",
   },
   {
@@ -482,7 +482,7 @@ export const products: Product[] = [
     category: "Organización",
     rating: 4.6,
     reviewCount: 17800,
-    image: "/products/ganchos-utensilios-pared.jpg",
+    image: "https://m.media-amazon.com/images/I/71ZSyFl0IvL._AC_UL480_FMwebp_QL65_.jpg",
     affiliateLink: "https://amzn.to/4eTHbv4",
   },
   {
@@ -495,7 +495,7 @@ export const products: Product[] = [
     category: "Limpieza",
     rating: 4.6,
     reviewCount: 28900,
-    image: "/products/panos-cocina-algodon.jpg",
+    image: "https://m.media-amazon.com/images/I/71Y9VY8986L._AC_UL480_FMwebp_QL65_.jpg",
     affiliateLink: "https://amzn.to/4uRCHdk",
   },
   {
@@ -508,7 +508,7 @@ export const products: Product[] = [
     category: "Limpieza",
     rating: 4.5,
     reviewCount: 16700,
-    image: "/products/cepillo-limpieza-utensilios.jpg",
+    image: "https://m.media-amazon.com/images/I/71qUx+frHFL._AC_UL480_FMwebp_QL65_.jpg",
     affiliateLink: "https://amzn.to/4xFLfGv",
   },
   {
@@ -521,7 +521,7 @@ export const products: Product[] = [
     category: "Limpieza",
     rating: 4.4,
     reviewCount: 9800,
-    image: "/products/dispensador-jabon-platos.jpg",
+    image: "https://m.media-amazon.com/images/I/61wrj3G8H+L._AC_SY300_SX300_QL70_FMwebp_.jpg",
     affiliateLink: "https://amzn.to/4oCRA1k",
   },
   {
@@ -534,7 +534,7 @@ export const products: Product[] = [
     category: "Limpieza",
     rating: 4.5,
     reviewCount: 21300,
-    image: "/products/tapete-secado-platos.jpg",
+    image: "https://m.media-amazon.com/images/I/71gxTorTe8L._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/44k9EnF",
   },
   {
@@ -547,7 +547,7 @@ export const products: Product[] = [
     category: "Parrilla",
     rating: 4.6,
     reviewCount: 9200,
-    image: "/products/termometro-parrilla-inalambrico.jpg",
+    image: "https://m.media-amazon.com/images/I/51LhpDn2BvL._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/3QinuUp",
   },
   {
@@ -560,7 +560,7 @@ export const products: Product[] = [
     category: "Parrilla",
     rating: 4.5,
     reviewCount: 8400,
-    image: "/products/cesta-parrilla-rodante.jpg",
+    image: "https://m.media-amazon.com/images/I/81OF4SoIhhL._AC_SY300_SX300_QL70_FMwebp_.jpg",
     affiliateLink: "https://amzn.to/4fYC1Po",
   },
   {
@@ -573,7 +573,7 @@ export const products: Product[] = [
     category: "Horneado",
     rating: 4.7,
     reviewCount: 32100,
-    image: "/products/tapetes-silicona-horneado.jpg",
+    image: "https://m.media-amazon.com/images/I/716cGTyKcHL._AC_UL480_FMwebp_QL65_.jpg",
     affiliateLink: "https://amzn.to/4eBRcLY",
   },
   {
@@ -586,7 +586,7 @@ export const products: Product[] = [
     category: "Horneado",
     rating: 4.6,
     reviewCount: 19500,
-    image: "/products/papel-pergamino-horno.jpg",
+    image: "https://m.media-amazon.com/images/I/61CdgqaURZL._AC_SY300_SX300_QL70_FMwebp_.jpg",
     affiliateLink: "https://amzn.to/4ag5e4F",
   },
   {
@@ -599,7 +599,7 @@ export const products: Product[] = [
     category: "Horneado",
     rating: 4.6,
     reviewCount: 11200,
-    image: "/products/manga-pastelera-reutilizable.jpg",
+    image: "https://m.media-amazon.com/images/I/61GB9xOmXqL._AC_UL480_FMwebp_QL65_.jpg",
     affiliateLink: "https://amzn.to/43RXEJZ",
   },
   {
@@ -612,7 +612,7 @@ export const products: Product[] = [
     category: "Horneado",
     rating: 4.6,
     reviewCount: 8700,
-    image: "/products/bascula-postres-precision.jpg",
+    image: "https://m.media-amazon.com/images/I/61N+1FoMdML._SX522_.jpg",
     affiliateLink: "https://amzn.to/4uQEIX7",
   },
   {
@@ -625,7 +625,7 @@ export const products: Product[] = [
     category: "Electrodomésticos",
     rating: 4.5,
     reviewCount: 14800,
-    image: "/products/tostadora-2-rebanadas.jpg",
+    image: "https://m.media-amazon.com/images/I/61Q5E+U8AgL._AC_UY327_FMwebp_QL65_.jpg",
     affiliateLink: "https://amzn.to/4ez4KYR",
   },
   {
@@ -638,7 +638,7 @@ export const products: Product[] = [
     category: "Electrodomésticos",
     rating: 4.6,
     reviewCount: 23400,
-    image: "/products/batidora-mano-electrica.jpg",
+    image: "https://m.media-amazon.com/images/I/71E0lsTxokL._AC_UY327_FMwebp_QL65_.jpg",
     affiliateLink: "https://amzn.to/4vzfs8I",
   },
   {
@@ -651,7 +651,7 @@ export const products: Product[] = [
     category: "Electrodomésticos",
     rating: 4.5,
     reviewCount: 9100,
-    image: "/products/microondas-compacto-digital.jpg",
+    image: "https://m.media-amazon.com/images/I/81Q0g8miyVL._AC_UY327_FMwebp_QL65_.jpg",
     affiliateLink: "https://amzn.to/4enspwn",
   },
   {
@@ -664,8 +664,8 @@ export const products: Product[] = [
     category: "Electrodomésticos",
     rating: 4.6,
     reviewCount: 16700,
-    image: "/products/freidora-aire-doble-cesta.jpg",
-    affiliateLink: "https://amzn.to/4wmEkAX",
+    image: "https://m.media-amazon.com/images/I/71W0rvPoMnL._AC_UY327_FMwebp_QL65_.jpg",
+    affiliateLink: "https://amzn.to/4xGQR3h",
     badge: "Tendencia 2026",
   },
   {
@@ -678,7 +678,7 @@ export const products: Product[] = [
     category: "Electrodomésticos",
     rating: 4.6,
     reviewCount: 12300,
-    image: "/products/olla-arrocera-multifuncion.jpg",
+    image: "https://m.media-amazon.com/images/I/51oFM7h1gAL._AC_UY327_FMwebp_QL65_.jpg",
     affiliateLink: "https://amzn.to/4aIMJWI",
   },
   {
@@ -691,7 +691,7 @@ export const products: Product[] = [
     category: "Cultivo en casa",
     rating: 4.5,
     reviewCount: 11200,
-    image: "/products/minicultivo-hidroponico-aerogarden.jpg",
+    image: "https://m.media-amazon.com/images/I/71yCKKiPnEL._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/4w7tmz3",
     badge: "Tendencia 2026",
   },
@@ -705,7 +705,7 @@ export const products: Product[] = [
     category: "Cultivo en casa",
     rating: 4.5,
     reviewCount: 6700,
-    image: "/products/frasco-conservacion-hierbas.jpg",
+    image: "https://m.media-amazon.com/images/I/81Zzl2fvYjL._AC_SX679_PIbundle-6,TopRight,0,0_SH20_.jpg",
     affiliateLink: "https://amzn.to/4vnB0VQ",
   },
 ];
