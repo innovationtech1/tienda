@@ -156,7 +156,7 @@ export const products: Product[] = [
     category: "Preparación",
     rating: 4.3,
     reviewCount: 8700,
-    image: "/products/pelador-electrico-rotato.jpg",
+    image: "https://m.media-amazon.com/images/I/61d0WO5Nl2L._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/4uKvVWv",
   },
   {
@@ -169,7 +169,7 @@ export const products: Product[] = [
     category: "Preparación",
     rating: 4.7,
     reviewCount: 31000,
-    image: "/products/tijeras-cocina-kitchenaid.jpg",
+    image: "https://m.media-amazon.com/images/I/51Byq+vTy1L._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/4vZ58qt",
   },
   {
@@ -182,7 +182,7 @@ export const products: Product[] = [
     category: "Preparación",
     rating: 4.4,
     reviewCount: 41100,
-    image: "/products/colador-escurridor-snap.jpg",
+    image: "https://m.media-amazon.com/images/I/71kpEP9LbAL._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/4w7s9Yx",
   },
   {
@@ -195,7 +195,7 @@ export const products: Product[] = [
     category: "Preparación",
     rating: 4.4,
     reviewCount: 5320,
-    image: "/products/robot-cocina-multifuncion.jpg",
+    image: "https://m.media-amazon.com/images/I/71l8MxOPMmL._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/4eBQfmS",
   },
   {
@@ -208,7 +208,7 @@ export const products: Product[] = [
     category: "Preparación",
     rating: 4.6,
     reviewCount: 22500,
-    image: "/products/rallador-queso-multiusos.jpg",
+    image: "https://m.media-amazon.com/images/I/71Q3Xv1gTOL._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/4eBQfTU",
   },
   {
@@ -221,7 +221,7 @@ export const products: Product[] = [
     category: "Medición",
     rating: 4.7,
     reviewCount: 78000,
-    image: "/products/bascula-digital-etekcity.jpg",
+    image: "https://m.media-amazon.com/images/I/718qxJBJfHL._SX522_.jpg",
     affiliateLink: "https://amzn.to/4oGHjRN",
     badge: "Más vendido",
   },
@@ -235,7 +235,7 @@ export const products: Product[] = [
     category: "Medición",
     rating: 4.5,
     reviewCount: 33000,
-    image: "/products/bascula-amazon-basics.jpg",
+    image: "https://m.media-amazon.com/images/I/71eiII6MS-L._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/4w5yGTB",
   },
   {
@@ -248,7 +248,7 @@ export const products: Product[] = [
     category: "Medición",
     rating: 4.6,
     reviewCount: 19400,
-    image: "/products/set-medidoras-magneticas.jpg",
+    image: "https://m.media-amazon.com/images/I/71I-QFDHIoL._AC_SY300_SX300_QL70_FMwebp_.jpg",
     affiliateLink: "https://amzn.to/4elpJzo",
   },
   {
@@ -261,7 +261,7 @@ export const products: Product[] = [
     category: "Medición",
     rating: 4.4,
     reviewCount: 2876,
-    image: "/products/tabla-cortar-bascula.jpg",
+    image: "https://m.media-amazon.com/images/I/611us7IJ+rL._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/3QQkQp0",
   },
   {
@@ -274,7 +274,7 @@ export const products: Product[] = [
     category: "Medición",
     rating: 4.6,
     reviewCount: 15800,
-    image: "/products/termometro-carne-bluetooth.jpg",
+    image: "https://m.media-amazon.com/images/I/71Mhqhh0y5L._SX522_.jpg",
     affiliateLink: "https://amzn.to/44o4lna",
   },
   {
@@ -287,7 +287,7 @@ export const products: Product[] = [
     category: "Conservación",
     rating: 4.6,
     reviewCount: 9400,
-    image: "/products/selladora-vacio-cuisinart.jpg",
+    image: "https://m.media-amazon.com/images/I/61fJ96mZZjL._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/4v8bP97",
   },
   {
@@ -300,7 +300,7 @@ export const products: Product[] = [
     category: "Conservación",
     rating: 4.6,
     reviewCount: 24500,
-    image: "/products/bolsas-vacio-rollos.jpg",
+    image: "https://m.media-amazon.com/images/I/61n4rAeI+3L._AC_SY300_SX300_QL70_FMwebp_.jpg",
     affiliateLink: "https://amzn.to/44iFYr4",
   },
   {
@@ -313,7 +313,7 @@ export const products: Product[] = [
     category: "Conservación",
     rating: 4.6,
     reviewCount: 27000,
-    image: "/products/organizador-tapas-storalid.jpg",
+    image: "https://m.media-amazon.com/images/I/71fQCaeRhML._AC_SX416_CB1169409_QL70_.jpg",
     affiliateLink: "https://amzn.to/43RX4Mj",
   },
   {
@@ -326,7 +326,7 @@ export const products: Product[] = [
     category: "Conservación",
     rating: 4.7,
     reviewCount: 38900,
-    image: "/products/contenedores-vidrio-hermeticos.jpg",
+    image: "https://m.media-amazon.com/images/I/91Rkr1ib+TL._AC_SY300_SX300_QL70_FMwebp_.jpg",
     affiliateLink: "https://amzn.to/4a9eS9h",
   },
   {
@@ -339,7 +339,7 @@ export const products: Product[] = [
     category: "Conservación",
     rating: 4.7,
     reviewCount: 15230,
-    image: "/products/organizador-especias-giratorio.jpg",
+    image: "https://m.media-amazon.com/images/I/91g4y+aD2CL._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/4eT4C7I",
   },
   {
@@ -352,7 +352,7 @@ export const products: Product[] = [
     category: "Bebidas",
     rating: 4.5,
     reviewCount: 6543,
-    image: "/products/cafetera-programable-molino.jpg",
+    image: "https://m.media-amazon.com/images/I/71XFaU1gDRL._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/4fTEw5y",
   },
   {
@@ -365,7 +365,7 @@ export const products: Product[] = [
     category: "Bebidas",
     rating: 4.6,
     reviewCount: 27600,
-    image: "/products/licuadora-personal-ninja.jpg",
+    image: "https://m.media-amazon.com/images/I/710oNE8RCjL._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/3QtTfde",
   },
   {
@@ -378,7 +378,7 @@ export const products: Product[] = [
     category: "Bebidas",
     rating: 4.5,
     reviewCount: 41000,
-    image: "/products/espumador-leche-electrico.jpg",
+    image: "https://m.media-amazon.com/images/I/61iaENDGVVL._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/4vmI3xY",
   },
   {
@@ -391,7 +391,7 @@ export const products: Product[] = [
     category: "Bebidas",
     rating: 4.4,
     reviewCount: 6100,
-    image: "/products/exprimidor-electrico-citricos.jpg",
+    image: "https://m.media-amazon.com/images/I/7155EbXa3XL._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/4eD4Iz8",
   },
   {
@@ -404,7 +404,7 @@ export const products: Product[] = [
     category: "Bebidas",
     rating: 4.6,
     reviewCount: 12700,
-    image: "/products/hervidor-electrico-temperatura.jpg",
+    image: "https://m.media-amazon.com/images/I/81gv0BQtQ4L._AC_SX679_.jpg",
     affiliateLink: "https://amzn.to/4uUrJnf",
   },
   {
