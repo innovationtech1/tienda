@@ -5,14 +5,14 @@ import Footer from "@/components/Footer";
 import RegisterSW from "@/components/RegisterSW";
 
 export const metadata: Metadata = {
-  title: "innovationTECH — Los productos de cocina y hogar más vendidos, probados y curados",
+  title: "InnovationTECH — Los productos de cocina y hogar más vendidos, probados y curados",
   description:
     "Seleccionamos 50 de los productos de cocina y hogar mejor valorados de Amazon, organizados por categoría. Reseñas honestas, sin relleno, para que decidas en minutos.",
   manifest: "/manifest.json",
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "innovationTECH",
+    title: "InnovationTECH",
   },
   icons: {
     icon: [

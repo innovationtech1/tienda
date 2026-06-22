@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Política de privacidad — innovationTECH",
+  title: "Política de privacidad — InnovationTECH",
 };
 
 export default function PoliticaPrivacidad() {
@@ -37,7 +37,7 @@ export default function PoliticaPrivacidad() {
             Enlaces de afiliados
           </h2>
           <p className="mt-2">
-            Como Afiliado de Amazon, innovationTECH gana por compras
+            Como Afiliado de Amazon, InnovationTECH gana por compras
             calificadas. Al hacer clic en un enlace hacia Amazon, sales de
             este sitio y quedas sujeto a la política de privacidad y
             términos de Amazon.com.

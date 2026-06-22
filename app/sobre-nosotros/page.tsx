@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Sobre nosotros — innovationTECH",
+  title: "Sobre nosotros — InnovationTECH",
   description: "Quiénes somos y por qué curamos los mejores productos de cocina y hogar.",
 };
 
@@ -17,7 +17,7 @@ export default function SobreNosotros() {
 
       <div className="prose mt-8 space-y-5 text-base leading-relaxed text-charcoal-soft">
         <p>
-          innovationTECH nació de una frustración simple: comprar productos de
+          InnovationTECH nació de una frustración simple: comprar productos de
           cocina que prometían mucho y terminaban acumulando polvo. Empezamos
           a comparar productos en serio — especificaciones, materiales,
           reseñas reales — antes de recomendar nada.

@@ -1,5 +1,5 @@
 // =============================================================
-// CATÁLOGO DE PRODUCTOS — innovationTECH
+// CATÁLOGO DE PRODUCTOS — InnovationTECH
 // =============================================================
 // 50 productos de cocina en general, basados en investigación de
 // bestsellers reales de Amazon (Amazon Best Sellers Kitchen & Dining,

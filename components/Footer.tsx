@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid gap-10 sm:grid-cols-3">
           <div>
             <p className="font-display text-lg font-semibold text-charcoal">
-              innovation<span className="text-terracotta">TECH</span>
+              Innovation<span className="text-terracotta">TECH</span>
             </p>
             <p className="mt-3 max-w-xs text-sm leading-relaxed text-charcoal-soft">
               Probamos y comparamos productos de cocina y hogar para que tu próxima compra
@@ -48,7 +48,7 @@ export default function Footer() {
           <div>
             <p className="text-sm font-semibold text-charcoal">Aviso de afiliados</p>
             <p className="mt-3 text-sm leading-relaxed text-charcoal-soft">
-              Como Afiliado de Amazon, innovationTECH gana por compras
+              Como Afiliado de Amazon, InnovationTECH gana por compras
               calificadas realizadas a través de los enlaces de este sitio,
               sin costo adicional para ti.
             </p>
@@ -56,7 +56,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 flex flex-col gap-2 border-t border-charcoal/10 pt-6 text-xs text-charcoal-soft sm:flex-row sm:items-center sm:justify-between">
-          <p>© {new Date().getFullYear()} innovationTECH. Todos los derechos reservados.</p>
+          <p>© {new Date().getFullYear()} InnovationTECH. Todos los derechos reservados.</p>
           <p>Los precios y disponibilidad mostrados son referenciales y pueden variar en Amazon.</p>
         </div>
       </div>

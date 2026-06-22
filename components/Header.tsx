@@ -17,7 +17,7 @@ export default function Header() {
             />
           </span>
           <span className="font-display text-xl font-bold tracking-tight sm:text-2xl">
-            <span className="logo-innovation">innovation</span>
+            <span className="logo-innovation">Innovation</span>
             <span className="logo-tech">TECH</span>
           </span>
         </Link>
